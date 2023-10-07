@@ -1,0 +1,4 @@
+name: dtorrent
+
+packages:
+  - packages/*
