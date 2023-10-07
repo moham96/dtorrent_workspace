@@ -1,0 +1,21 @@
+[submodule "packages/b_encode_decode"]
+	path = packages/b_encode_decode
+	url = git@github.com:moham96/b_encode_decode.git
+[submodule "packages/bittorrent_dht"]
+	path = packages/bittorrent_dht
+	url = git@github.com:moham96/bittorrent_dht.git
+[submodule "packages/dtorrent_common"]
+	path = packages/dtorrent_common
+	url = git@github.com:moham96/dtorrent_common.git
+[submodule "packages/dtorrent_parser"]
+	path = packages/dtorrent_parser
+	url = git@github.com:moham96/dtorrent_parser.git
+[submodule "packages/dtorrent_tracker"]
+	path = packages/dtorrent_tracker
+	url = git@github.com:moham96/dtorrent_tracker.git
+[submodule "packages/utp_protocol"]
+	path = packages/utp_protocol
+	url = git@github.com:moham96/utp_protocol.git
+[submodule "packages/dtorrent_task"]
+	path = packages/dtorrent_task
+	url = git@github.com:moham96/dtorrent_task.git
