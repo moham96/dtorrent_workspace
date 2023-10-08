@@ -19,3 +19,6 @@
 [submodule "packages/dtorrent_task"]
 	path = packages/dtorrent_task
 	url = git@github.com:moham96/dtorrent_task.git
+[submodule "packages/ftorrent"]
+	path = packages/ftorrent
+	url = git@github.com:moham96/ftorrent.git
